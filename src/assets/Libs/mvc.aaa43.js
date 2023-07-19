@@ -1,0 +1,1 @@
+var mvc;(function(n){n.mlistener=new cc.Node,n.on=function(e,c,i,m){n.mlistener.on(e,i,c,m)},n.emit=function(e,c){n.mlistener.emit(e,c)},n.off=function(e,c,i,m){n.mlistener.off(e,c,i,m)}})(mvc||(mvc={})),window.mvc=mvc;
